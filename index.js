@@ -71,7 +71,7 @@ app.get('/simulate', (req, res) =>{
     method: 'POST',
     headers:{
         "Content-Type": "application/json",
-        "Authorization": "Bearer AmcvD1c8ATWEbeAhWeWEW0NlkAdZ",
+        "Authorization": "Bearer add_bearer",
     },
     body: JSON.stringify({
         "BusinessShortCode": 174379,
